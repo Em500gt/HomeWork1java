@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Task3 {
 
     public static void main(String[] args) {
-        System.out.println("Добро пожаловать в калькулятор.\nВыход -> Stop");
+        System.out.println("Добро пожаловать в калькулятор.");
         Scanner iScanner = new Scanner(System.in);
 
         boolean status = true;
